@@ -225,4 +225,4 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-remote_theme : mmistakes/minimal-mistakes
+remote_theme : cotes2020/jekyll-theme-chirpy
