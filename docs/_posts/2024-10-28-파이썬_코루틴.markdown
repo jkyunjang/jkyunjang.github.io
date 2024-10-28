@@ -19,5 +19,3 @@ asyncio.run(main())
 async 키워드로 코루틴임을 명시하고 asyncio.run()을 사용하여 실행한다. 
 
 asyncio.run()은 코루틴의 최초 진입 시점을 명시하고, event loop 관리와 같은 기능을 한다.
-
-
