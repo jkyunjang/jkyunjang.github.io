@@ -6,3 +6,4 @@ categories: cpp
 ---
 
 # copy ellision
+****
